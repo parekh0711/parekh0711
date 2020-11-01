@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sohamparekh711@gmail.com
 - ⚡ Fun fact: I :heart: Robert Downey Jr.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parekh0711)](https://github.com/anuraghazra/github-readme-stats)
+![Soham's github stats](https://github-readme-stats.vercel.app/api?username=parekh0711&show_icons=true&theme=highcontrast)
