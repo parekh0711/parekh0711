@@ -5,12 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a torrent client using Python.
-- 🌱 I’m currently learning Networking and JavaScript.
-- 💬 Ask me about anything related to Software Development.
-- 📫 How to reach me: sohamparekh711@gmail.com
-- ⚡ Fun fact: RDJ is my everything.
+
 
 -->
+
+- 🔭 I’m currently working on a torrent client using Python.
+- 🌱 I’m currently learning Networking and JavaScript.
+- 💬 Ask me about anything related to software development.
+- 📫 How to reach me: sohamparekh711@gmail.com
+- ⚡ Fun fact: I :heart: Robert Downey Jr.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=parekh0711)](https://github.com/anuraghazra/github-readme-stats)
