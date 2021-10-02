@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently interning at D.E. Shaw India.
-- 🌱 I’m currently learning JavaScript.
+- 🔭 I'm in my final year at College of Engineering, Pune.
+- 🌱 I also work part-time as a Software Developer on ![Freelancer](https://www.freelancer.in/u/sohamparekh).
 - 💬 Ask me about anything related to software development.
 - 📫 How to reach me: sohamparekh711@gmail.com
 - ⚡ Fun fact: I :heart: Robert Downey Jr.
